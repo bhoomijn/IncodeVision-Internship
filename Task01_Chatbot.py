@@ -3,6 +3,7 @@
 # Author: Devendra (bhoomijn)
 # Description: A simple rule-based chatbot that responds to basic user inputs.
 
+
 def chatbot():
     print("🤖 Welcome to the Chatbot!")
     print("Type 'bye' to exit.\n")
